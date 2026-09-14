@@ -1,7 +1,12 @@
-theia@theiadocker-victordacost:/home/project/final_project$ python3.11 test_emotion_detection.py
-.....
+theia@theiadocker-victordacost:/home/project/final_project$ python3.11 test_emotion_detection.py -v
+test_anger (__main__.TestEmotionDetection.test_anger) ... ok
+test_disgust (__main__.TestEmotionDetection.test_disgust) ... ok
+test_fear (__main__.TestEmotionDetection.test_fear) ... ok
+test_joy (__main__.TestEmotionDetection.test_joy) ... ok
+test_sadness (__main__.TestEmotionDetection.test_sadness) ... ok
+
 ----------------------------------------------------------------------
-Ran 5 tests in 0.658s
+Ran 5 tests in 0.646s
 
 OK
-theia@theiadocker-victordacost:/home/project/final_project$
+theia@theiadocker-victordacost:/home/project/final_project$ 
